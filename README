@@ -1,0 +1,8 @@
+This is some code I wrote to validate the date on an HTML page.
+If you need to be able to accept time in just about any format: a few examples are 
+- 10 - 10:00 AM
+- 1 - 01:00 PM
+- 930a - 9:30 AM
+- 5:00 - 5:00 PM
+
+
