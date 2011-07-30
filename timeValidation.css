@@ -1,0 +1,2 @@
+input[type=text].invalid { background-color:#FFAAAA; border:2px solid #E50000; }
+input[type=text].success { background-color:#8CFF8C; border:2px solid #50C350; }
